@@ -1,5 +1,5 @@
 <a href="https://wallap.app">
-  <img alt="Wallap CRM dashboard for managing WhatsApp conversations, contacts, and sales." src="/present.png">
+  <img alt="Wallap CRM dashboard for managing WhatsApp conversations, contacts, and sales." src="https://raw.githubusercontent.com/wallapinc/.github/refs/heads/main/present.png">
 </a>
 
   <h3 align="center">Wallap.app, Inc.</h3>
